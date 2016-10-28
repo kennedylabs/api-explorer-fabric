@@ -1,0 +1,30 @@
+{
+  "name": "api-explorer-fabric",
+  "version": "0.1.0",
+  "description": "API Explorer built with Office UI Fabric for React using TypeScript.",
+  "main": "./dist/bundle.js",
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennedylabs/api-explorer-fabric.git"
+  },
+  "author": "Kevin Kennedy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kennedylabs/api-explorer-fabric/issues"
+  },
+  "homepage": "https://github.com/kennedylabs/api-explorer-fabric#readme",
+  "dependencies": {
+    "@types/react": "^0.14.43",
+    "@types/react-dom": "^0.14.18",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.9.5"
+  }
+}
